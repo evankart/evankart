@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @evankart
-- 👀 I’m interested in web development and web design
-- 🌱 Currently learning HTML and CSS
+- 👀 I’m interested in data science, web development and design
+- 🌱 Currently learning Python, HTML and CSS
 - 💞️ I’m looking to collaborate on learning and practicing code
 - 📫 Find me on <a href="https://www.linkedin.com/in/evan-kartheiser/">LinkedIn</a>!
 
