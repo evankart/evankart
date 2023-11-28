@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @evankart
-- 👀 Front-end Developer with an eye for design
-- 🌱 JavaScript, React, HTML / CSS and Python
+- 👀 Full-Stack Developer using the MERN stack
+- 🌱 Looking for opportunities to collaborate and grow with other developers
 - 💞️ Here's my <a href="http://evankartheiser.com">Personal Website</a>
 - 📫 Find me on <a href="https://www.linkedin.com/in/evankart/">LinkedIn</a> - I'm open to work!
 
