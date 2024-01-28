@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Evan
+- 👋 Hi, I’m Evan Kartheiser
 - 👀 Full-Stack Developer in the San Francisco Bay Area
 - ✨ Here's my <a href="http://evankartheiser.com">Personal Website</a>
 - 📫 Or you can find me on <a href="https://www.linkedin.com/in/evankart/">LinkedIn</a>
