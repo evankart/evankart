@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Evan
 - 👀 Full-Stack Developer in the San Francisco Bay Area
-- 💞️ Here's my <a href="http://evankartheiser.com">Personal Website</a>
+- ✨ Here's my <a href="http://evankartheiser.com">Personal Website</a>
 - 📫 Find me on <a href="https://www.linkedin.com/in/evankart/">LinkedIn</a>
 
 <!-- evankart/evankart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
